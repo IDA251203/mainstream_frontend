@@ -1,0 +1,27 @@
+.serviceList {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    padding-left: 25px;
+    padding-top: 40px;
+    border-radius: 8px;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: left;
+  }
+  
+  .serviceListItem {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+
+  .serviceListItem1{
+    color: #000000;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 700;
+  }
+  
+  .serviceListItem__iconPurple{
+    color: #766FB2;
+  }

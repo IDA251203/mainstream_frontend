@@ -1,0 +1,186 @@
+.services {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; 
+    background: #111111;
+    width: 100%; 
+    min-height: 3000px;
+}
+.services__title{
+    color: #766FB2;
+    font-size: 94.19px;
+    font-weight: 700;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.gridContainer{
+    display: grid;
+    gap: 10px;
+    width: 80%;
+    grid-template-columns: calc(100% / 3) calc(100% / 3) calc(100% / 3);
+    grid-template-rows: 283.93px 284px 283.93px 282px 283.93px 287px 283.93px 284px 283.93px 290px;
+  }
+  
+  .gridItem{
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    font-size: 30px;
+    background-size: 100% 100%;
+  }
+  
+  .item1 {
+    grid-column: 1 / span 2;
+    grid-row: 1 / span 2;
+    /* height: 580px;
+    width: 1031px; */
+    background-image: url('../../public/assets/img/дизайн\ почасовой\ 1.png');
+  }
+  
+  .item2 {
+    grid-column: 3;
+    grid-row: 2;
+    background-image: url('../../public/assets/img/билборды.png');
+  }
+  .item3 {
+    grid-column: 3;
+    grid-row:  3;
+    background-color: #000000;
+  }
+  .item4{
+    background-color: #766FB2;
+  }
+  .item6{
+    grid-column: 2 /  4;
+    grid-row: 3 / 5;
+    background-image: url('../../public/assets/img/поднятие\ в\ топ\ 1.png');
+  }
+  .item3 {
+    grid-column: 1;
+    grid-row:  3;
+    background-color: #000000;
+  }
+  
+  .item5 {
+    grid-column: 1;
+    grid-row:  4;
+    background-image: url('../../public/assets/img/контент\ план\ 1.png');
+  }
+  .item7{
+    grid-column: 1 / span 2;
+    grid-row: 5 /  7;
+    background-image: url('../../public/assets/img/production.png');
+  }
+  .item8{
+    grid-column: 3;
+    grid-row:  5;
+    background-color: #FFFFFF;
+    color: #111111;
+  }
+  .item9{
+    grid-column: 3;
+    grid-row:  6;
+    background-image: url('../../public/assets/img/дрон.png');
+  }
+  .item10{
+    grid-column: 1;
+    grid-row:  7;
+    background-color: #766FB2;
+  }
+  .item11{
+    grid-column: 1;
+    grid-row:  8;
+    background-image: url('../../public/assets/img/app\ 1.png');
+  }
+  .item12{
+    grid-column: 2 /  4;
+    grid-row: 7 / 9;
+    background-image: url('../../public/assets/img/сайт\ 1.png');
+
+  }
+  .item13{
+    grid-column: 1 / span 2;
+    grid-row: 9 /  11;
+    background-image: url('../../public/assets/img/bot\ 1.png');
+  }
+  .item14{
+    background-color: #000000;
+  }
+  .item15{
+    background-image: url('../../public/assets/img/telegram\ app\ 1.png');
+  }
+
+  .services__calc{
+    width: calc(80% + 23px);
+    height: 239.12px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    box-sizing: border-box;
+  }
+  .services__calc__btn{
+    min-width: 40%;
+    height: 110.95px;
+    background-color: #766FB2;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .services__calc__btn p{
+    color: #FFFFFF;
+    font-size: 35.08px;
+  }
+  .services__calc__description{
+    width: 51%;
+    height: 110.95px;
+    border-left:1px solid black;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+  }
+  .services__calc__description p{
+    width: 99%;
+    font-size: 25.14px;
+    line-height: 30px;
+  }
+  
+  @media only screen and (max-width: 400px) {
+    
+.gridContainer{
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 100%;
+  
+  /* grid-template-columns: calc(100% / 3) calc(100% / 3) calc(100% / 3);
+  grid-template-rows: 243.93px 284px 283.93px 282px 283.93px 287px 283.93px 284px 283.93px 290px; */
+}
+.gridItem{
+  width: 90%;
+  height: 280px;
+  text-align: center;
+  font-size: 30px;
+  background-size: 100% 100%;
+}
+.services__calc{
+  width: 90%;
+  height: 110.12px;
+  font-size: 15px;
+}
+.services__calc__btn{
+ height: 70px;
+ font-size: 15px;
+}
+  }

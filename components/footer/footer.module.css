@@ -1,0 +1,81 @@
+.footer{
+    background: #766FB2;
+    width: 100%;
+    height: 517.54px;
+} 
+.footer__shape{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #FFFFFF;
+    width: 100%;
+    height: 517.54px;
+    background-image: url('../../public/assets/img/Clip\ path\ group\ \(1\).png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.footer__shape__contact{
+    width: 33%;
+    height: 100%;
+    padding-left: 90px;
+    display: flex;
+    align-items: center;
+}
+.footer__shape__logo{
+    width: 33%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.footer__shape__menu{
+    width: 33%;
+    height: 100%;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    padding-right: 90px;
+}
+.footer__shape__contact__pnoneNumber{
+    font-size: 33.26px;
+    font-weight: 700;
+}
+.footer__shape__contact__gmail{
+    font-size: 28.89px;
+    font-weight: 400;
+}
+.footer__shape__contact__address{
+    font-size: 20.05px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.footer__shape__contact__address1{
+    font-size: 20.05px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.footer__shape__menu p{
+    font-size: 30.05px;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+.footer__shape__logo p{
+    font-size: 18.63px;
+    width: 70%;
+    text-align: center;
+    line-height: 30px;
+}
+.footer__circlebox{
+    width: 100%;
+    max-width: 70%;
+    height: 49.39px;
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.footer__shape__img{
+    margin-top: 100px;
+}
