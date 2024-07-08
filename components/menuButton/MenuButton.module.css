@@ -163,7 +163,7 @@
     height: 100vh;
     color: #5A3B5D;
   } */
-  @media only screen and (max-width: 400px){
+  @media only screen and (max-width: 769px){
     .cont{
         display: block;
     }

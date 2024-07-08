@@ -93,7 +93,7 @@
   }
   
   /* Media query for mobile view */
-  @media only screen and (max-width: 400px) {
+  @media only screen and (max-width: 769px) {
     .nav{
         height: 190px;
         flex-wrap: wrap;

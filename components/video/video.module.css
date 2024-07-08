@@ -4,7 +4,7 @@
     background-color: #000000; 
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 769px) {
    .video{
     min-height: 500px;
    }

@@ -118,7 +118,7 @@ function Partnership() {
             <div className={styles.partnership__cont}>
                 <div className={styles.partnership__cont__logo}>
                     <Image src={'/assets/img/name_withpurple.jpg'} alt='logo' width={400} height={102.47}/>
-                </div>
+                </div> 
                 <div className={styles.partnership__cont__btn}>
                     <Image src={'/assets/img/instagram.jpg'} alt='logo' width={72.47} height={72.47}/>
                     <div className={styles.partnership__cont__desc}>

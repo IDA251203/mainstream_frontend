@@ -97,7 +97,7 @@
    initial-value: 0turn;
  }
  
- @media only screen and (max-width: 400px) {
+ @media only screen and (max-width: 769px) {
   .images__cont1, .images__cont2, .images__cont3{
     width: 270px;
     height: 545px;

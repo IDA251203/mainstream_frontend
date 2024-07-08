@@ -150,7 +150,7 @@
     top: 38px;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 769px) {
     .about__titleBox{
         height: 112px;
     }
