@@ -36,6 +36,18 @@
     "imagesimplement":"Реализуем",
     "imagesPromoting":"Продвигаем",
 
-    "ServicesCalc":"Калькулятор услуг",
-    "ServicesDescription":"Онлайн калькулятор поможет посчитать сколько стоят интересующие Вас услуги"
+    "servicesCalc":"Калькулятор услуг",
+    "servicesDescription":"Онлайн калькулятор поможет посчитать сколько стоят интересующие Вас услуги",
+
+    "questionsTitle":"Остались вопросы?",
+    "questionsDescriptions":"Оставьте контактные данные, наши менеджеры свяжутся с Вами и проконсультируют",
+    "questionsBtn":"Отправить",
+
+    "footerAdress":"Узбекистан, г. Ташкент,Чиланзар 3, 44/1",
+    "footerInfo":"Права защищены Mainstream Global Design by Ruslan Mariarty",
+    "footerAbout":"О компании",
+    "footerServices":"Услуги",
+    "footerCases":"Кейсы",
+    "footerContact":"Контакты",
+    "footerCours":"Курсы"
 }
