@@ -1,0 +1,41 @@
+{
+    "navAbout":"О компании",
+    "navServices":"Услуги",
+    "navCases":"Кейсы",
+    "navContact":"Контакты",
+    "navCours":"Курсы",
+
+    "aboutUsDescription":"Mainstream - быстро развивающееся агентство полного цикла, где каждая деталь проработала до совершенства, для достижения высоких результатов наших клиентов.",
+    "aboutUsTitle":"в цифрах",
+    "aboutUsNumberMarket":"года на рынке",
+    "aboutUsNumberBranches":"филиала по миру (UZB, UAE, TURKEY)",
+    "aboutUsNumberProjects":"успешных проектов",
+    "aboutUsNumberMaterials":"рекламных материалов",
+    "aboutUsNumberEmployees":"сотрудников",
+    "aboutUsNumberLeads":"привлечённых лидов",
+    "aboutUsNumberBillion":"млрд",
+    "aboutUsNumberViews":"просмотров на наших видео роликах",
+    "aboutUsNumberMillion":"млн",
+    "aboutUsNumberSubscribers":"живых подписчиков привед ено нашим клиентам",
+    "aboutUsNumberCost":"стоимость за переход по ссылке",
+
+    "partnershipTitle":"Нам доверяют",
+    "partnershipDescription":"Ценности нашей компании это долгосрочное и плодотворное партнёрство.",
+    "partnershipAboutInstagram":"Детальнее работы в ленте instagram нашего агенства",
+
+    "stagesOfWorkTitle":"Этапы работы",
+    "stagesOfWorkFirst":"Аудит вашего бизнеса",
+    "stagesOfWorkSecond":"Определяем бюджет на продвижение",
+    "stagesOfWorkThird":"Определяем цели и показатели KPI",
+    "stagesOfWorkFourth":"Разрабатываем стратегию продвижения и план работы, концепцию и медиа план",
+    "stagesOfWorkFifth":"Приступаем к реализации",
+    "stagesOfWorkDescriptionFirst":"Каждый наш проект выполняется профессионально благодаря нашему опыту в различных областях.",
+    "stagesOfWorkDescriptionSecond":"У нас установлен четкий и эффективный регламент работы с каждой нишей, и мы несем ответственность за его выполнение.",
+
+    "imagesCreate":"Создаём",
+    "imagesimplement":"Реализуем",
+    "imagesPromoting":"Продвигаем",
+
+    "ServicesCalc":"Калькулятор услуг",
+    "ServicesDescription":"Онлайн калькулятор поможет посчитать сколько стоят интересующие Вас услуги"
+}
