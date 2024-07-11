@@ -1,0 +1,53 @@
+{
+    "navAbout":"Kompaniya haqida",
+    "navServices":"Xizmatlar",
+    "navCases":"Ishlar",
+    "navContact":"Kontaktlar",
+    "navCours":"Kurslar",
+   
+    "aboutUsDescription": "Mainstream tez rivojlanayotgan to'liq xizmat ko'rsatadigan agentlik bo'lib, u erda mijozlarimiz uchun yuqori natijalarga erishish uchun har bir tafsilot mukammal ishlab chiqilgan.",
+    "aboutUsTitle":"raqamlarda",
+    "aboutUsNumberMarket":"bozorda yillar",
+    "aboutUsNumberBranches":"dunyo bo'ylab filiallar (UZB, BAA, TURKIYA)",
+    "aboutUsNumberProjects":"muvaffaqiyatli loyihalar",
+    "aboutUsNumberMatials":"reklama materiallari",
+    "aboutUsNumberEmployees":"xodimlar",
+    "aboutUsNumberLeads":"jazibadorlar",
+    "aboutUsNumberBillion":"milliard",
+    "aboutUsNumberViews":"videolarimizdagi ko'rishlar",
+    "aboutUsNumberMillion":"million",
+    "aboutUsNumberSubscribers":"mijozlarimizga taqdim etilgan jonli obunachilar",
+    "aboutUsNumberCost":"har bir havolani bosish narxi",
+   
+    "partnershipTitle":"Ishonchli",
+    "partnershipDescription": "Kompaniyamizning qadriyatlari uzoq muddatli va samarali hamkorlikdir.",
+    "partnershipAboutInstagram": "Agentlikimizning Instagram tasmasida ish haqida batafsil ma'lumot",
+   
+    "stagesOfWorkTitle":"Ish bosqichlari",
+    "stagesOfWorkFirst": "Biznesingiz auditi",
+    "stagesOfWorkSecond": "Rag'batlantirish uchun byudjetni aniqlash",
+    "stagesOfWorkThird": "Maqsadlar va KPIlarni aniqlang",
+    "stagesOfWorkFourth": "Biz targ'ibot strategiyasi va ish rejasi, konsepsiya va media-rejani ishlab chiqmoqdamiz",
+    "stagesOfWorkFifth": "Keling, amalga oshirishni boshlaymiz",
+    "stagesOfWorkDescriptionFirst": "Bizning har bir loyihamiz turli sohalardagi tajribamiz tufayli professional tarzda amalga oshiriladi.",
+    "stagesOfWorkDescriptionSecond": "Bizda har bir bo'shliq bilan ishlash bo'yicha aniq va samarali qoidalar mavjud va biz uning bajarilishi uchun javobgarmiz.",
+   
+    "imagesCreate": "Yaramoqda",
+    "imagesimplement": "Amalga oshirilmoqda",
+    "imagesPromoting":"Targ'ib qilish",
+   
+    "servicesCalc":"Xizmatlar kalkulyatori",
+    "servicesDescription": "Onlayn kalkulyator sizni qiziqtirgan xizmatlarning narxini hisoblashda yordam beradi",
+   
+    "questionsTitle":"Savollar qoldimi?",
+    "questionsDescriptions":"Aloqa ma'lumotlaringizni qoldiring, menejerlarimiz siz bilan bog'lanib, sizga maslahat berishadi",
+    "questionsBtn":"Yuborish",
+   
+    "footerAdress": "O'zbekiston, Toshkent, Chilonzor 3, 44/1",
+    "footerInfo":"Huquqlar himoyalangan Mainstream Global Design by Ruslan Mararty",
+    "footerAbout":"Kompaniya haqida",
+    "footerServices":"Xizmatlar",
+    "footerCases": "Holatlar",
+    "footerContact":"Kontaktlar",
+    "footerCours":"Kurslar"
+   }
