@@ -1,0 +1,53 @@
+{
+    "navAbout":"About the company",
+    "navServices":"Services",
+    "navCases":"Cases",
+    "navContact":"Contacts",
+    "navCours":"Courses",
+   
+    "aboutUsDescription": "Mainstream is a fast-growing full-service agency, where every detail has been worked out to perfection to achieve high results for our clients.",
+    "aboutUsTitle":"in numbers",
+    "aboutUsNumberMarket":"years on the market",
+    "aboutUsNumberBranches":"branches around the world (UZB, UAE, TURKEY)",
+    "aboutUsNumberProjects":"successful projects",
+    "aboutUsNumberMaterials":"promotional materials",
+    "aboutUsNumberEmployees":"employees",
+    "aboutUsNumberLeads":"attracted leads",
+    "aboutUsNumberBillion":"billion",
+    "aboutUsNumberViews":"views on our videos",
+    "aboutUsNumberMillion":"million",
+    "aboutUsNumberSubscribers":"live subscribers provided to our clients",
+    "aboutUsNumberCost":"cost per link click",
+   
+    "partnershipTitle":"Trusted",
+    "partnershipDescription": "Our company's values ​​are long-term and fruitful partnership.",
+    "partnershipAboutInstagram": "More details of the work in our agency's Instagram feed",
+   
+    "stagesOfWorkTitle":"Stages of Work",
+    "stagesOfWorkFirst": "Audit of your business",
+    "stagesOfWorkSecond": "Determining the budget for promotion",
+    "stagesOfWorkThird": "Define goals and KPIs",
+    "stagesOfWorkFourth": "We are developing a promotion strategy and work plan, concept and media plan",
+    "stagesOfWorkFifth": "Let's start implementation",
+    "stagesOfWorkDescriptionFirst": "Each of our projects is carried out professionally thanks to our experience in various fields.",
+    "stagesOfWorkDescriptionSecond": "We have clear and effective regulations for working with each niche, and we are responsible for its implementation.",
+   
+    "imagesCreate": "Creating",
+    "imagesimplement": "Implementing",
+    "imagesPromoting":"Promoting",
+   
+    "servicesCalc":"Services Calculator",
+    "servicesDescription": "The online calculator will help you calculate how much the services you are interested in cost",
+   
+    "questionsTitle":"Any questions left?",
+    "questionsDescriptions":"Leave your contact details, our managers will contact you and advise you",
+    "questionsBtn":"Submit",
+   
+    "footerAdress": "Uzbekistan, Tashkent, Chilanzar 3, 44/1",
+    "footerInfo":"Rights reserved Mainstream Global Design by Ruslan Mararty",
+    "footerAbout":"About the company",
+    "footerServices":"Services",
+    "footerCases": "Cases",
+    "footerContact":"Contacts",
+    "footerCours":"Courses"
+   }
