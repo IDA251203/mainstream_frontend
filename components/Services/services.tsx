@@ -7,7 +7,7 @@ const services4 = [
     'Посты для социальных сетей',
     'Motion ролики', 
     'Брендинг',
-    'Дизайн наружной рекламы',
+    'Дизайн наружной рекламы', 
     '3D моделирование',
     'VFX - ролики',
     'Дизайн печатной продукции',
@@ -48,7 +48,7 @@ const services8 = [
     'Монтаж', 
 ];
 
-function Services(){
+function Services(){ 
     return(
         <div className={styles.services}>
             <p className={styles.services__title}>Услуги</p>
@@ -57,7 +57,7 @@ function Services(){
                 <div className={`${styles.gridItem} ${styles.item1}`}></div>
                 <div className={`${styles.gridItem} ${styles.item2}`}></div>
                 <div className={`${styles.gridItem} ${styles.item3}`}>
-                    <ServiceListForblack items={services3}/>
+                    <ServiceListForblack items={services3}/>      
                 </div>  
                 <div className={`${styles.gridItem} ${styles.item4}`}>
                     <ServiceListForPurple items={services4}/>

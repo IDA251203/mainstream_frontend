@@ -45,8 +45,8 @@ function Nav() {
 
                 <div className={styles.nav__circle}>
                 <select className={styles.languageselector}>
-                    <option value="ru">Ru</option>
-                    <option value="en" selected>EN</option>
+                    <option value="ru" selected>Ru</option>
+                    <option value="en">EN</option>
                     <option value="uz">UZ</option>
                 </select> 
                 </div>
