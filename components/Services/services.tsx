@@ -58,7 +58,7 @@ function Services(){
                 <div className={`${styles.gridItem} ${styles.item2}`}></div>
                 <div className={`${styles.gridItem} ${styles.item3}`}>
                     <ServiceListForblack items={services3}/>      
-                </div>  
+                </div>   
                 <div className={`${styles.gridItem} ${styles.item4}`}>
                     <ServiceListForPurple items={services4}/>
                 </div>
@@ -89,7 +89,7 @@ function Services(){
                 </div>
                 <div className={styles.services__calc__description}>
                     <p>Онлайн калькулятор поможет посчитать сколько стоят интересующие Вас услуги</p>
-                </div>
+                </div> 
             </div>
         </div>
     );

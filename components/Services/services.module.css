@@ -29,7 +29,7 @@
     text-align: center;
     font-size: 30px;
     background-size: 100% 100%;
-    transition-property: transform;
+    transition-property: transform; 
     transition-duration: 1s;
   }
   .gridItem:hover{
@@ -187,6 +187,6 @@
 }
 .services__calc__btn{
  height: 70px;
- font-size: 15px;
+ font-size: 10px;
 }
   }

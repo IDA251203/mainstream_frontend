@@ -2,7 +2,7 @@ import styles from "./question.module.css";
 import * as React from 'react';
 import Image from "next/image"; 
 
-function Questions() { 
+function Questions() {  
     return (
         <div className={styles.questions}>
             <div className={styles.questions__box}>

@@ -70,7 +70,7 @@
     }
     .stages__backImage{
         background-size: 200px 440px;
-        background-position: right bottom;
+        background-position: 120% bottom;
     }
     .stages__blackShape{
         width: 45%; 
@@ -79,11 +79,18 @@
     }
     .stages__purpleshape__text{
         height: 250px;
-        border: 1px solid black;
         top:25.5%;
         padding-left: 20px;
     }
     .stages__purpleshape__box{
-        font-size: 15px;
+        font-size: 10px;
+    }
+    .stages__purpleshape__box span{
+        margin-right: 3px;
+        font-size: 18px;
+    }
+    .stages__description{
+        font-size: 12px;
+        top:30%;
     }
 }
