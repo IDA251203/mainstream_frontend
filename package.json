@@ -13,6 +13,7 @@
     "@emotion/styled": "^11.11.5",
     "@mui/material": "^5.15.19",
     "next": "14.2.3",
+    "next-intl": "^3.16.0",
     "react": "^18",
     "react-dom": "^18"
   },

@@ -1,36 +1,4 @@
-/* @tailwind base;
-@tailwind components;
-@tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-} */
 *{
   box-sizing: border-box;
   padding: 0;
@@ -48,3 +16,15 @@ body {
 }
 
 
+@font-face{
+  font-family: Nova;
+  src: url('/assets/fonts/Bona_Nova_SC/BonaNovaSC-Regular.ttf');
+}
+@font-face{
+  font-family: Raleway;
+  src: url('/assets/font/Raleway/static/Raleway-Regular.ttf');
+}
+@font-face{
+  font-family: Montserrat;
+  src: url('/assets/font/Montserrat/static/Montserrat-Regular.ttf');
+}

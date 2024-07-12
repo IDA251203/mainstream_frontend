@@ -13,7 +13,7 @@ function StagesOfWork(){
                             Аудит вашего бизнеса      
                         </div>
                         <div className={styles.stages__purpleshape__box}>
-                            <span>2</span>
+                            <span>2</span> 
                             Определяем бюджет на продвижение
                         </div>
                         <div className={styles.stages__purpleshape__box}>

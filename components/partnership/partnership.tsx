@@ -64,7 +64,7 @@ function Partnership() {
                 const overlayElement = document.createElement('div');
                 overlayElement.className = styles.overlay;
                 overlayElement.textContent = description;
-
+ 
                 slideElement.append(imgElement, overlayElement);
 
                 return slideElement;

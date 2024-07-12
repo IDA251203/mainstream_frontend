@@ -1,0 +1,19 @@
+@mixin font($fontFamily)
+    {
+    @if ($fontFamily == Nova)
+    {
+        font-family: BonaNovaSC-Regular !important
+    }
+    @else if ($fontFamily == Raleway)
+    {
+        font-family: Raleway-Regular !important
+    }
+    @else if ($fontFamily == Montserrat)
+    {
+        font-family: Montserrat-Regular !important
+    }
+    /* @else if $weight == medium
+        font-weight: 800 !important
+        font-family: Inter-Medium !important
+    */
+    }
