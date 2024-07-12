@@ -16,17 +16,17 @@ function Footer() {
                 </div>
                 <div className={styles.footer__shape__logo}>
                     <div className={styles.footer__shape__img}>
-                        <Image src={'/assets/img/logooo.png'} alt="logo" width={300} height={210}/>
-                    </div>
-                    <p>Права защищены Mainstream Global Design by Ruslan Mariarty</p>
+                        <Image src={'/assets/img/logooo.png'} alt="logo" width={300} height={210} className={styles.footer__shape__img1}/>
+                    </div> 
+                    <p className={styles.footer__shape__logo__txt}>Права защищены Mainstream Global Design by Ruslan Mariarty</p>
                     {/* <p>Design by Ruslan Mariarty</p> */}
                     
                     <div className={styles.footer__circlebox}>
-                        <Image src={'/assets/img/Vector1.png'} alt="logo" width={49.39} height={49.39}/>
-                        <Image src={'/assets/img/Vector2.png'} alt="logo" width={49.39} height={49.39}/>
-                        <Image src={'/assets/img/Vector3.png'} alt="logo" width={49.39} height={49.39}/>
-                        <Image src={'/assets/img/Vector4.png'} alt="logo" width={49.39} height={49.39}/>
-                        <Image src={'/assets/img/Vector5.png'} alt="logo" width={49.39} height={49.39}/>
+                        <Image src={'/assets/img/Vector1.png'} alt="logo" width={49.39} height={49.39} className={styles.footer__circlebox__img}/>
+                        <Image src={'/assets/img/Vector2.png'} alt="logo" width={49.39} height={49.39} className={styles.footer__circlebox__img}/>
+                        <Image src={'/assets/img/Vector3.png'} alt="logo" width={49.39} height={49.39} className={styles.footer__circlebox__img}/>
+                        <Image src={'/assets/img/Vector4.png'} alt="logo" width={49.39} height={49.39} className={styles.footer__circlebox__img}/>
+                        <Image src={'/assets/img/Vector5.png'} alt="logo" width={49.39} height={49.39} className={styles.footer__circlebox__img}/>
                     </div>
                 </div>
                 <div className={styles.footer__shape__menu}>
